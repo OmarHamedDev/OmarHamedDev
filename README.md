@@ -41,9 +41,9 @@
 ---
 
 ### 🌐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/omar-hamed-837024349/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:omarhamed.work@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+201154544334)  
 [![CV](https://img.shields.io/badge/CV-gray?style=flat&logo=file&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/omar-hamed)
 
----
