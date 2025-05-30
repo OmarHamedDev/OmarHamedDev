@@ -11,6 +11,17 @@
 
 ---
 
+### 🛠️ Skills & Expertise
+
+- Dart & Flutter development: OOP, SOLID principles, Design Patterns, Asynchronous Programming  
+- Architecture Patterns: MVVM, MVI, Clean Architecture  
+- State Management: BLoC, Provider  
+- Local Storage & Database: Hive, SharedPreferences, flutter_secure_storage  
+- Development Workflow: Agile, Scrum, Git, GitHub, Unit Testing, CI/CD  
+- Mobile App Development: Android & iOS, UI/UX design, Performance Optimization
+
+---
+
 ### 🛠️ Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
