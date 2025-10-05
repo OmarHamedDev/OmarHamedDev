@@ -10,6 +10,12 @@
 - 💡 Fun Fact: I enjoy solving UI/UX challenges and love clean, modern designs.
 
 ---
+🧪 Featured Projects
+
+📦 Tracking App – Flower Delivery w/ Realtime Firebase, Retrofit, and Clean MVVM.
+🛒 Flower App – E-commerce with Firestore & Push Notifications.
+📝 Online Exam App – Secure exam system with OTP + offline support.
+🍽 Recipe App (Android/Kotlin) – Offline Kotlin App built in team of 4.
 
 ### 🛠️ Skills & Expertise
 
